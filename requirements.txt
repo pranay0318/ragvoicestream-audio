@@ -1,0 +1,12 @@
+PyAudio
+openai
+python-dotenv
+langchain==0.1.20
+langchain_community==0.0.38
+langchain_core==0.1.52
+langchain_openai==0.1.6
+streamlit
+openai
+streamlit_mic_recorder
+streamlit-float
+faiss-cpu
